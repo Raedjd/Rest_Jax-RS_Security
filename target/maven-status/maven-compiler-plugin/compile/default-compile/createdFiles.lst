@@ -1,0 +1,7 @@
+jaxrs\resources\AuthenticationEndPoint.class
+jaxrs\resources\GestionEmploye.class
+jaxrs\utilities\RestActivator.class
+jaxrs\filters\Secured.class
+jaxrs\entities\Employe.class
+jaxrs\entities\Credentials.class
+jaxrs\filters\AuthenticationFilter.class
